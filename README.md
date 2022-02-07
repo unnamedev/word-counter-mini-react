@@ -1,0 +1,2 @@
+    ✨ Word Counter Mini App
+
